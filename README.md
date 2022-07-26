@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, My name is Soorya Krishna
+----------
 
-<!--
-**SooryaCodes/SooryaCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## MERN Developer
+----------
 
-Here are some ideas to get you started:
+I am a seft taught MERN Stack developer. I am ready to take new challenges. I love to learn new things. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Brototype](https://www.linkedin.com/company/brototype/)
+- 🌱 I’m currently learning more about MERN STACK and other technologies
+- 👯 I’m open to collaborate on JavaScript Projects
+- 💬 Ask me about Web Development
+- 📫 How to reach me: You can email me at [sooryakriz111@gmail.com](mailto:sooryakriz111@gmail.com)
+- ⚡ My LinkedIn [Profile](https://www.linkedin.com/sooryakrishna/)
+
