@@ -11,5 +11,5 @@ I am a seft taught MERN Stack developer. I am ready to take new challenges. I lo
 - 👯 I’m open to collaborate on JavaScript Projects
 - 💬 Ask me about Web Development
 - 📫 How to reach me: You can email me at [sooryakriz111@gmail.com](mailto:sooryakriz111@gmail.com)
-- ⚡ My LinkedIn [Profile](https://www.linkedin.com/sooryakrishna/)
+- ⚡ My LinkedIn [Profile](https://www.linkedin.com/in/sooryakrishna/)
 
