@@ -1,15 +1,28 @@
-### Hi there 👋, My name is Soorya Krishna
-----------
+# Hi there 👋, I'm Soorya Krishna
 
-## MERN Developer
-----------
+I am a **passionate and skilled Full-Stack Developer** with over **3 years of experience** specializing in the **MERN stack** (MongoDB, Express, React, Node.js). My expertise is in building dynamic, scalable web applications and custom developer tools.
 
-I am a seft taught MERN Stack developer. I am ready to take new challenges. I love to learn new things. 
+### 🛠 What I do:
+- **Full-Stack Development**: Proficient in the **MERN stack** to build and deploy modern web applications, from designing complex architectures to integrating APIs.
+- **Product Development**: Passionate about creating SaaS products that deliver value and enhance user experiences.
+- **Problem Solving & Support**: With experience in tech support, I’ve guided over **1,000 students and professionals** through technical challenges.
 
-- 🔭 I’m currently working on [Brototype](https://www.linkedin.com/company/brototype/)
-- 🌱 I’m currently learning more about MERN STACK and other technologies
-- 👯 I’m open to collaborate on JavaScript Projects
-- 💬 Ask me about Web Development
-- 📫 How to reach me: You can email me at [sooryakriz111@gmail.com](mailto:sooryakriz111@gmail.com)
-- ⚡ My LinkedIn [Profile](https://www.linkedin.com/in/sooryakrishna/)
+### 🌱 Always Learning:
+As a self-taught developer, I'm continuously expanding my knowledge, currently exploring **AI**, **machine learning**, and other technologies to stay at the cutting edge of innovation.
 
+### 🔍 What I’m Looking For:
+I’m open to new challenges and collaborations in:
+- Full-Stack Development (especially **MERN Stack** projects)
+- SaaS Product Development
+- Any tech-driven projects that push boundaries
+
+### 💬 Ask me about:
+- Web Development with the **MERN Stack**
+- SaaS Product Development
+- Tech Support and Problem-Solving
+
+### 📫 How to reach me:
+- **Email**: [sooryakriz111@gmail.com](mailto:sooryakriz111@gmail.com)
+- **LinkedIn**: [My LinkedIn Profile](#)
+
+Looking forward to collaborating and working on impactful projects!
