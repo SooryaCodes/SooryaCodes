@@ -23,6 +23,6 @@ I’m open to new challenges and collaborations in:
 
 ### 📫 How to reach me:
 - **Email**: [sooryakriz111@gmail.com](mailto:sooryakriz111@gmail.com)
-- **LinkedIn**: [My LinkedIn Profile](#)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/sooryakrishna/)
 
 Looking forward to collaborating and working on impactful projects!
